@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol S Hodbe</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\Amol Sadashiv Hodbe\OneDrive\Desktop\animated3D.gif||https://servreality.com/wp-content/uploads/2020/07/Scala.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/110758290/193437363-c1c91df3-fdc5-4bf1-b2a7-00f82796b524.gif">
+
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=amolhd&label=Profile%20views&color=0e75b6&style=flat" alt="amolhd" /> 
